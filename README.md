@@ -8,7 +8,7 @@
 I build AI-powered tools at the intersection of clinical radiology, radiomic feature engineering, and production backend systems. From raw DICOM/NIfTI MRI scans to scalable REST APIs, I deliver end-to-end solutions grounded in real medical data.
 
 🏥 **Background:**
-Final-year BSc Medical Radiology & Imaging student + Medical Physics Intern at JNMC Hospital (Aligarh, India). Daily work with PyRadiomics, SimpleITK, and multi-institutional glioblastoma datasets (BraTS, TCGA-GBM, UCSF-PDGM).
+Final-year BSc Medical Radiology & Imaging student + Medical Physics Intern at JNMC Hospital . Daily work with PyRadiomics, SimpleITK, and multi-institutional glioblastoma datasets (BraTS, TCGA-GBM, UCSF-PDGM).
 
 💼 **Open to:** Software Developer | ML Engineer | Medical AI Engineer | Python Backend Developer
 
